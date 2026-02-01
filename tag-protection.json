@@ -1,0 +1,28 @@
+{
+  "id": 12338536,
+  "name": "tag-protection",
+  "target": "tag",
+  "source_type": "Repository",
+  "source": "min0625/rulesets",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~ALL"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    },
+    {
+      "type": "non_fast_forward"
+    },
+    {
+      "type": "update"
+    }
+  ],
+  "bypass_actors": []
+}
