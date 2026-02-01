@@ -27,8 +27,3 @@ Reusable GitHub repository ruleset JSON templates for branch and tag protection.
 ## License 🔒
 
 This project is licensed under the **Apache License 2.0**. See the repository `LICENSE` file for the full license text and terms.
-
----
-
-Thank you for helping improve these templates! 🎉
-Note: minor README update for PR.
